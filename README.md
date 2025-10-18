@@ -42,14 +42,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAMARAL141196&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![Lucas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAMARAL141196&layout=compact&theme=github_dark)
 
-
----
-
-### 🏆 Contribuições e Atividade
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LucasAMARAL141196&theme=github-dark&hide_border=false)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasAMARAL141196&theme=github-dark&hide_border=false)
-
 ---
 
 ### 📫 Contato
