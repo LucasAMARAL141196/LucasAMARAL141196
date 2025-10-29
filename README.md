@@ -33,7 +33,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 ### 🔧 Projetos recentes
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
-| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Usuário deve adivinhar um número aleatório | HTML, CSS, JS |
+| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Usuário DEVE ADIVINHAR  um número aleatório | HTML, CSS, JS |
+| :8ball: [ Sorteador de Números](https://github.com/LucasAMARAL141196/sorteador-numeros)  | Usuário PODE SORTEAR vários números  | HMTL, CSS, JS  |
 
 ---
 
