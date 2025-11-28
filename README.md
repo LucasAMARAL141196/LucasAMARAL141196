@@ -51,7 +51,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 
 - 📧 Email: **lucas.gilsonamaral@gmail.com**  
 - 💻 GitHub: **[LucasAMARAL141196](https://github.com/LucasAMARAL141196)**  
-- 🔗 LinkedIn: *em breve*
+- 🔗 LinkedIn: **www.linkedin.com/in/lucas-amaral-08112b35a**
 
 ---
 
