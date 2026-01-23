@@ -16,7 +16,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 
 ### 📚 Atualmente estudando
 - Lógica de Programação  
-- JavaScript  
+- JavaScript
+- Python
 - Git e GitHub  
 - Construção de projetos práticos  
 
