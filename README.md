@@ -9,6 +9,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 ![HTML Badge](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264de4)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
