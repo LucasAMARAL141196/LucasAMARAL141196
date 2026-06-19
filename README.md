@@ -10,6 +10,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 ![CSS Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264de4)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C# Badge](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=sharp&logoColor=239120)
 ![Git Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
@@ -19,6 +20,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo co
 - Lógica de Programação  
 - JavaScript
 - Python
+- C# e .NET
 - Git e GitHub  
 - Construção de projetos práticos  
 
