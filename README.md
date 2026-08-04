@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Amaral!
 
-Sou iniciante na área da programação e estou estudando para me tornar **Desenvolvedor Full Stack**.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo com projetos práticos e estudos constantes.
+Sou iniciante na área da programação e estou estudando para me tornar **Desenvolvedor Full Stack** ( com foco em BAck-END).  
+Atualmente sou graduando no curso de  **Análise e Desenvolvimento de Sistemas** e venho evoluindo com projetos práticos e estudos constantes.
 
 ---
 
