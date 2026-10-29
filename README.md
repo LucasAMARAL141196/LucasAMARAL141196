@@ -54,7 +54,7 @@ Atualmente sou graduando no curso de  **Análise e Desenvolvimento de Sistemas**
 
 <img width="161" height="161" alt="octocat-1760746910346" src="https://github.com/user-attachments/assets/697696bc-7eee-4553-8e8f-ca172e675a7a" />
 
-- 📧 Email: **lucas.gilsonamaral@gmail.com**  
+- 📧 Email: **lamarallucas603@gmail.com**  
 - 💻 GitHub: **[LucasAMARAL141196](https://github.com/LucasAMARAL141196)**  
 - 🔗 LinkedIn: **www.linkedin.com/in/lucas-amaral-08112b35a**
 
