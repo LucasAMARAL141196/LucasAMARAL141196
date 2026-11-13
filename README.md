@@ -38,8 +38,8 @@ Atualmente sou graduando no curso de  **Análise e Desenvolvimento de Sistemas**
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
 | ✍ [SABOR EXPRESS](https://github.com/LucasAMARAL141196/projeto-sabor-express) | Usuário DEVE SELECIONAR E CADASTRAR O TIPO DO RESTAURANTE | PYTHON | - (EM APERFEIÇOAMENTO)⌛
-| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Jogo em que o usuário tenta adivinhar um número sorteado.
-| :8ball: [ Sorteador de Números](https://github.com/LucasAMARAL141196/sorteador-numeros)  | Usuário PODE SORTEAR vários números  | HTML, CSS, JS  |
+| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Jogo em que o usuário tenta adivinhar um número sorteado. | HTML 5, CSS3, JS |
+| :8ball: [ Sorteador de Números](https://github.com/LucasAMARAL141196/sorteador-numeros)  | Usuário PODE SORTEAR vários números  | HTML 5, CSS 3, JS  |
 
 ---
 
