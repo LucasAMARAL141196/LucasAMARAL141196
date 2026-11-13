@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Amaral!
 
-Sou iniciante na área da programação e estou estudando para me tornar **Desenvolvedor Full Stack** ( com foco em BAck-END).  
+Sou iniciante na área da programação e estou estudando para me tornar **Desenvolvedor Full Stack** ( com foco em Back-End).  
 Atualmente sou graduando no curso de  **Análise e Desenvolvimento de Sistemas** e venho evoluindo com projetos práticos e estudos constantes.
 
 ---
@@ -38,17 +38,11 @@ Atualmente sou graduando no curso de  **Análise e Desenvolvimento de Sistemas**
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
 | ✍ [SABOR EXPRESS](https://github.com/LucasAMARAL141196/projeto-sabor-express) | Usuário DEVE SELECIONAR E CADASTRAR O TIPO DO RESTAURANTE | PYTHON | - (EM APERFEIÇOAMENTO)⌛
-| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Usuário DEVE ADIVINHAR  um número aleatório | HTML, CSS, JS |
-| :8ball: [ Sorteador de Números](https://github.com/LucasAMARAL141196/sorteador-numeros)  | Usuário PODE SORTEAR vários números  | HMTL, CSS, JS  |
+| 🎯 [Jogo do Número Secreto](https://github.com/LucasAMARAL141196/jogo-do-numero-secreto) | Jogo em que o usuário tenta adivinhar um número sorteado.
+| :8ball: [ Sorteador de Números](https://github.com/LucasAMARAL141196/sorteador-numeros)  | Usuário PODE SORTEAR vários números  | HTML, CSS, JS  |
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAMARAL141196&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-![Lucas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAMARAL141196&layout=compact&theme=github_dark)
-
----
 
 ### 📫 Contato
 
